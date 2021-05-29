@@ -1,0 +1,1 @@
+c:\users\moonl\documents\visual studio 2015\Projects\Serial PLC Project\Serial PLC Project\bin\Debug\Serial PLC Project.exe.config
